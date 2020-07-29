@@ -4,4 +4,4 @@ function c(x){
     console.log(x);
 }
 
-c('test');
+c('test!!!!!');
