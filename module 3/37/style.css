@@ -1,0 +1,18 @@
+button {
+    width: 70px;
+    height: 40px;
+    background-color:   gold;
+}
+
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+
+.main {
+    width: 100%;
+    background-color: grey;
+    padding: 15px;
+}
